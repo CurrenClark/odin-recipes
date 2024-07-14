@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 Create project odin-recipies. reason unknown, soley for personal knowledge I believe
 
 Create a small site from here on out
