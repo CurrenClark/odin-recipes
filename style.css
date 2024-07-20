@@ -1,0 +1,29 @@
+/* style.css */
+
+#title {
+    color: white;
+    background-color: rgb(60, 117, 207);
+    border-radius: 50%;
+    border-color: red;
+    font-size: 49px;
+    text-align: center;
+}
+
+.glasses {
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.Instagram {
+    color: rgb(187, 118, 211);
+    background-color: rgb(175, 222, 200);
+    font-weight: bold;
+    text-align: center;
+}
+
+.items {
+  color: black;
+    background-color: aliceblue;
+  font-size: 18px;
+}
