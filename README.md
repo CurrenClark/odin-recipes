@@ -17,3 +17,4 @@ Tell the difference between absolute links and relative links
 Write out the initial code for all of these commands
 Add an image to a link in a different file
 Make paragraphs
+Now adding CSS!
